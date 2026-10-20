@@ -6,4 +6,3 @@
 
 ! No-IP website
 @@||noip.com^
-@@||busa.myftp.org^
